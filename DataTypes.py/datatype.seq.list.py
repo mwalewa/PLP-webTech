@@ -1,0 +1,6 @@
+list = ('abcd', 786, 2.23, 'john', 70.2)
+tinylist = (123, 'john')
+print(list)
+print(tinylist)
+print(list[2:3])
+print(list + tinylist)

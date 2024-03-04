@@ -1,0 +1,10 @@
+/**
+problem: create a function that shows a sum of two numbers*/
+const addnumbers = (a, b) => {
+    return (a+b);
+const a=10;
+const b=5;
+console.log(addnumbers(a,b));
+
+
+}
